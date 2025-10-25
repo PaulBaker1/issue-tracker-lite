@@ -8,7 +8,7 @@ A simple full-stack issue tracker built with:
 
 ## 🖼️ Screenshot
 <p align="center">
-  <img width="600" height="466" alt="image" src="https://github.com/user-attachments/assets/cb91175c-a341-40af-8066-052e4feca66c" />
+  <img src="https://github.com/user-attachments/assets/cb91175c-a341-40af-8066-052e4feca66c" alt="image" width="600" height="466">
 </p>
 
 ## 🧱 Running locally
