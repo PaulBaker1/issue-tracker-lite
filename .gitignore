@@ -1,0 +1,20 @@
+# Node & frontend
+node_modules
+.next
+.env
+.env.local
+
+# Dotnet
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
