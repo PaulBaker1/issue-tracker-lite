@@ -7,7 +7,7 @@ A simple full-stack issue tracker built with:
 - **Design:** Swagger-inspired dark UI
 
 ## 🖼️ Screenshot
-<img src="https://github.com/user-attachments/assets/cb91175c-a341-40af-8066-052e4feca66c" alt="image" width="600" height="466">
+<img width="806" height="732" alt="image" src="https://github.com/user-attachments/assets/24f6f614-95ad-4410-991e-65ede40f0275" />
 
 ## 🧱 Running locally
 
