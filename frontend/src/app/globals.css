@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+/* Simple dark surface */
+html.dark body {
+  background: #0b121a;     /* dark background */
+  color: #e5e7eb;          /* light text */
+}
+
+/* Basic panel look */
+.panel {
+  @apply bg-[#111827] border border-[#1f2937] rounded-lg p-4;
+}
+
+/* Inputs & buttons */
+.input, .select, .textarea {
+  @apply bg-[#0f172a] text-[#e5e7eb] border border-[#1f2937] rounded px-3 py-2 outline-none;
+}
+.input:focus, .select:focus, .textarea:focus { @apply ring-1 ring-[#61affe] border-[#61affe]; }
+.btn        { @apply rounded px-3 py-2 border border-[#1f2937] hover:bg-[#1f2430] transition; }
+.btn-primary{ @apply bg-[#61affe] text-black border-transparent hover:opacity-90; }
+
